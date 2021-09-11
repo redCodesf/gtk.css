@@ -1,0 +1,9 @@
+XfdesktopIconView.label{
+color:#FF0000;
+text-shadow :none;
+}
+.xfce4-panel * {
+    color: #ff0000;
+}
+
+.tasklist button:checked { background-image: none; background-color: #000000 ; border-color: #00ff00; }
